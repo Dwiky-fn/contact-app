@@ -75,7 +75,7 @@ npm run build
 - [React](https://react.dev/) – Library UI
 - [Vite](https://vitejs.dev/) – Bundler cepat untuk development
 - [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [CSS] – Styling UI
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) – Styling UI
 
 ---
 
